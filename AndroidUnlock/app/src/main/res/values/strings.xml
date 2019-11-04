@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AndroidUnlock</string>
+    <string name="score">Score</string>
+    <string name="countdown_timer">Countdown Timer</string>
+    <string name="home">Home</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="scoreboard">Score Board</string>
+    <string name="date">Date</string>
+    <string name="sb_score">Score</string>
+    <string name="start">Start</string>
+    <string name="recent_id">Recent Id</string>
+    <string name="app_title">Android Unlock</string>
+    <string name="single_player">Single Player</string>
+    <string name="multiplayer">Multiplayer</string>
+    <string name="challenge_btn_text">challenge!</string>
+    <string name="new_record_text">New Record for This Set of Game!!</string>
+    <string name="name_text">Name Displayed On Record</string>
+    <string name="cancel_result_text">Cancel</string>
+    <string name="confirm_text">confirm</string>
+    <string name="early_finish_bonus_format">early finish bonus: %d</string>
+    <string name="raw_score_format">raw score: %d</string>
+</resources>
